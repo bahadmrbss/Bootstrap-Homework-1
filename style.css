@@ -1,0 +1,33 @@
+header {
+    background-color: rgb(198, 200, 204);
+    padding: 15px;
+}
+
+.col-12 {
+    text-align: center;
+    margin: 30px;
+    color: #dc3545;
+}
+
+.col {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.col-1 {
+    text-align: left;
+    margin-left: 10px;
+}
+
+body {
+    background-color: #E9ECEF;
+}
+
+.b1 {
+    background-color: #E9ECEF;
+
+}
+
+h2 {
+    color: #bd4753;
+}
